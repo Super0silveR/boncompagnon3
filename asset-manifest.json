@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e4be5f4.css",
-    "main.js": "/static/js/main.f9e5a121.js",
-    "static/media/auberge.PNG": "/static/media/auberge.05fe2aecebd7d29efa2a.PNG",
-    "static/media/scroll.png": "/static/media/scroll.369e902dcfab1ce9abf0.png",
-    "static/media/etabli.png": "/static/media/etabli.e9f4adf2ccb94028e204.png",
-    "static/media/ps1.jpg": "/static/media/ps1.ac0533fcf656a1005906.jpg",
-    "static/media/ps2.jpg": "/static/media/ps2.1191f09a7cc27a404a2f.jpg",
-    "static/media/ps3.jpg": "/static/media/ps3.8ae07623ed25c13471ce.jpg",
-    "static/media/sac.png": "/static/media/sac.50fba7d242de1e2f6542.png",
-    "static/media/icone.png": "/static/media/icone.7e2f741a3a043f8ab882.png",
-    "static/media/hat.jpg": "/static/media/hat.48153d2376c4bc33bbc3.jpg",
-    "static/media/potion.png": "/static/media/potion.48e2851fdb333f058c14.png",
-    "index.html": "/index.html",
-    "main.9e4be5f4.css.map": "/static/css/main.9e4be5f4.css.map",
-    "main.f9e5a121.js.map": "/static/js/main.f9e5a121.js.map"
+    "main.css": "/boncompagnon3/static/css/main.9e4be5f4.css",
+    "main.js": "/boncompagnon3/static/js/main.4fca4488.js",
+    "static/media/auberge.PNG": "/boncompagnon3/static/media/auberge.05fe2aecebd7d29efa2a.PNG",
+    "static/media/scroll.png": "/boncompagnon3/static/media/scroll.369e902dcfab1ce9abf0.png",
+    "static/media/etabli.png": "/boncompagnon3/static/media/etabli.e9f4adf2ccb94028e204.png",
+    "static/media/ps1.jpg": "/boncompagnon3/static/media/ps1.ac0533fcf656a1005906.jpg",
+    "static/media/ps2.jpg": "/boncompagnon3/static/media/ps2.1191f09a7cc27a404a2f.jpg",
+    "static/media/ps3.jpg": "/boncompagnon3/static/media/ps3.8ae07623ed25c13471ce.jpg",
+    "static/media/sac.png": "/boncompagnon3/static/media/sac.50fba7d242de1e2f6542.png",
+    "static/media/icone.png": "/boncompagnon3/static/media/icone.7e2f741a3a043f8ab882.png",
+    "static/media/hat.jpg": "/boncompagnon3/static/media/hat.48153d2376c4bc33bbc3.jpg",
+    "static/media/potion.png": "/boncompagnon3/static/media/potion.48e2851fdb333f058c14.png",
+    "index.html": "/boncompagnon3/index.html",
+    "main.9e4be5f4.css.map": "/boncompagnon3/static/css/main.9e4be5f4.css.map",
+    "main.4fca4488.js.map": "/boncompagnon3/static/js/main.4fca4488.js.map"
   },
   "entrypoints": [
     "static/css/main.9e4be5f4.css",
-    "static/js/main.f9e5a121.js"
+    "static/js/main.4fca4488.js"
   ]
 }
