@@ -17,35 +17,35 @@ function App() {
         <Navbar></Navbar>
         <div className='content'>
           <Switch>
-            <Route exact path='/'>
+            <Route exact path='/boncompagnon3'>
               <h3>Acceuil</h3>
               <Home></Home>
             </Route>
-            <Route path='/store'>
+            <Route path='/boncompagnon3/store'>
               <h3>Boutique</h3>
               <Store></Store>
             </Route>
-            <Route path='/quetes'>
+            <Route path='/boncompagnon3/quetes'>
               <h3>Quests</h3>
               <Quest></Quest>
             </Route>
-            <Route path='/error'>
+            <Route path='/boncompagnon3/error'>
               <h3>Oh oh...</h3>
               <Error></Error>
             </Route>
-            <Route path='/faq'>
+            <Route path='/boncompagnon3/faq'>
               <h3>FAQ</h3>
             </Route>
-            <Route path='/about'>
+            <Route path='/boncompagnon3/about'>
               <h3>About Us</h3>
             </Route>
-            <Route path='/signin'>
+            <Route path='/boncompagnon3/signin'>
               <h3>Enregistrement</h3>
             </Route>
-            <Route path='/connect'>
+            <Route path='/boncompagnon3/connect'>
               <h3>Connection</h3>
             </Route>
-            <Route path='/checkout'>
+            <Route path='/boncompagnon3/checkout'>
               <h3>Checkout!</h3>
               <Checkout1></Checkout1>
             </Route>

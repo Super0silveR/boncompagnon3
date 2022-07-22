@@ -15,19 +15,19 @@ const Navbar = () => {
     return ( 
         <div className="navbar">
             <nav>
-            <a href="/">
+            <a href="/boncompagnon3/">
                 <button>{Acceuil}</button>
             </a>
-            <a href="/store">
+            <a href="/boncompagnon3/store">
                 <button>{Produits}</button>
             </a>
-            <a href="/quetes">
+            <a href="/boncompagnon3/quetes">
                 <button>{Quetes}</button>
             </a>
-            <a href="/about">
+            <a href="/boncompagnon3/about">
                 <button>{About}</button>
             </a>
-            <a href="/faq">
+            <a href="/boncompagnon3/faq">
                 <button>{faq}</button>
             </a>
             </nav>          

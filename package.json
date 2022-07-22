@@ -1,7 +1,7 @@
 {
   "name": "bon-compagnon",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://super0silver.github.io/boncompagnon3/",
   "dependencies": {
     "-": "0.0.1",
