@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/boncompagnon3/static/css/main.9e4be5f4.css",
-    "main.js": "/boncompagnon3/static/js/main.4fca4488.js",
+    "main.js": "/boncompagnon3/static/js/main.56f0efd2.js",
     "static/media/auberge.PNG": "/boncompagnon3/static/media/auberge.05fe2aecebd7d29efa2a.PNG",
     "static/media/scroll.png": "/boncompagnon3/static/media/scroll.369e902dcfab1ce9abf0.png",
     "static/media/etabli.png": "/boncompagnon3/static/media/etabli.e9f4adf2ccb94028e204.png",
@@ -14,10 +14,10 @@
     "static/media/potion.png": "/boncompagnon3/static/media/potion.48e2851fdb333f058c14.png",
     "index.html": "/boncompagnon3/index.html",
     "main.9e4be5f4.css.map": "/boncompagnon3/static/css/main.9e4be5f4.css.map",
-    "main.4fca4488.js.map": "/boncompagnon3/static/js/main.4fca4488.js.map"
+    "main.56f0efd2.js.map": "/boncompagnon3/static/js/main.56f0efd2.js.map"
   },
   "entrypoints": [
     "static/css/main.9e4be5f4.css",
-    "static/js/main.4fca4488.js"
+    "static/js/main.56f0efd2.js"
   ]
 }
