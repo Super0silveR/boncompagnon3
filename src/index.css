@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    background-color: rgb(18, 18, 18);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(249, 230, 230);
+}
+.headers {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: larger;
+}
+.headers img {
+    height: 90px;
+    width: 110px;
+}
+.headers label {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.headers input{
+    padding: 10;
+}
+.headers button{
+    background-color: rgb(66, 157, 253);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+.headers button:hover{
+    background-color: white;
+    color:rgb(66, 157, 253);
+}
+.navbar {
+    padding: 20px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    border-bottom: 1px solid #f2f2f2;
+}
+.navbar button{
+    background-color: rgb(66, 157, 253);
+    border: none;
+    color: white;
+    padding: 10px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+.navbar button:hover {
+    background-color: white;
+    color:rgb(66, 157, 253);
+}
+.home {
+    display: inline-flex;
+    align-items: center;
+    max-width: 600;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.home img{
+    width: 100%;
+    height: auto;
+}
+.home button{
+    display: flex;
+    margin-left: 11%;
+    position: absolute;
+    border: none;
+    background-color: rgb(66, 157, 253);
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transform: translate(0%, -200%);
+    -ms-transform: translate(0%, -200%);
+}
+.home button:hover{
+    background-color: white;
+    color:rgb(66, 157, 253);
+}
+.App h3 {
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 1px solid #f2f2f2;
+}
+.store1 {
+    float: left;
+    width: 20%;
+    background: rgb(18, 18, 18);
+}
+.store1 h4{
+    background-color: rgb(18, 18, 18) ;
+    display: inline-flex;
+    margin-left: 1rem;
+    font-size: 22px;
+}
+.store1 input{
+    display: inline-flex;
+    height: 25px;
+    width: 25px;
+    background-color: rgb(18, 18, 18);
+    margin-top: 1rem;
+    
+}
+.store2 {
+    float: left;
+    width: 80%;
+    background-color: bisque;
+}
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(12rem, 16rem));
+    gap:2rem;
+    justify-content: center;
+}
+.wrapper2 {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    gap:2rem;
+    justify-content: center;
+}
+.card{
+    overflow: hidden;
+    box-shadow: 0 2px 20px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: transfom 200ms ease-in;
+
+}
+.card__image {
+    width: 16rem;
+    display: flex;
+    height: auto;
+}
+.card__image2 {
+    width: 1000px;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+.card__description{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+.card__btn:hover{
+    background-color: #ccc;
+    color: black;
+}
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content/Box */
+  .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+  }
+  
+  /* The Close Button */
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
